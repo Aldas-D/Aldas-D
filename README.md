@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Aldas 👋
+**Cybersecurity student @ Vilnius University | Kaunas**
 
-<!--
-**PrismaticG/PrismaticG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Studying Information Systems & Cybersecurity (3rd year)  
+Interests: SOC analysis, network security, vulnerability research  
+Tools: Kali Linux · Metasploit · Nmap · Wireshark · OPNsense  
+Available for internship from: 2026-07-01  
+aldas.dov7@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+![Linux](https://img.shields.io/badge/Linux-CLI-blue?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-red?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
+![OPNsense](https://img.shields.io/badge/OPNsense-orange?style=flat-square)
+![Python](https://img.shields.io/badge/Python-basic-yellow?style=flat-square)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square)
+
+---
+
+*Currently studying & building — open to internships in SOC / IT security*
