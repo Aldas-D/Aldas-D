@@ -20,4 +20,4 @@ aldas.dov7@gmail.com
 
 ---
 
-*Currently studying & building — open to internships in SOC / IT security*
+
