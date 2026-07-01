@@ -5,7 +5,7 @@
 Studying Information Systems & Cybersecurity (3rd year)  
 Interests: SOC analysis, network security, vulnerability research  
 Tools: Kali Linux · Metasploit · Nmap · Wireshark · OPNsense  
-Available for internship
+
 aldas.dov7@gmail.com  
 
 ### Skills
