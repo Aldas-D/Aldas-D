@@ -2,7 +2,7 @@
 **Cybersecurity student @ Vilnius University | Kaunas**
 
 
-Studying Information Systems & Cybersecurity (3rd year)  
+Studying Information Systems & Cybersecurity (Last year)  
 Interests: SOC analysis, network security, vulnerability research  
 Tools: Kali Linux · Metasploit · Nmap · Wireshark · OPNsense  
 
