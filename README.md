@@ -4,7 +4,7 @@
 
 Studying Information Systems & Cybersecurity (Last year)  
 Interests: SOC analysis, network security, vulnerability research  
-Tools: Kali Linux · Metasploit · Nmap · Wireshark · OPNsense  
+Tools: Kali Linux · Metasploit · Nmap · Wireshark 
 
 aldas.dov7@gmail.com  
 
@@ -14,7 +14,6 @@ aldas.dov7@gmail.com
 ![Metasploit](https://img.shields.io/badge/Metasploit-red?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
-![OPNsense](https://img.shields.io/badge/OPNsense-orange?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-basic-yellow?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square)
 
